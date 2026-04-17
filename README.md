@@ -1,2 +1,2 @@
 # technical-writing-portfolio
-Contains technical writing samples for review.
+Technical documentation portfolio - support engineering, API integration, and SaaS troubleshooting guides.

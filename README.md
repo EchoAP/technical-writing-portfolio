@@ -83,5 +83,3 @@ A forward-looking operational analysis produced ahead of a major integration arc
 
 Available for freelance technical writing projects.  
 Connect on [LinkedIn](https://www.linkedin.com/in/harris-iv/) or reach out via [Upwork](https://www.upwork.com/freelancers/~01841326071edc97d9).
-
-> *Links will be updated shortly.*
